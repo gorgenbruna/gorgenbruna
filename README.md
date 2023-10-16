@@ -3,6 +3,10 @@
 - 🎓 I'm graduated in Multimedia Production;
 - 🌱 Currently studying Javascript and React.js;
 
+<p>
+  I'm looking for my first opportunity in Front-End. I am 100% dedicated and focused on my studies, but I will certainly have the opportunity to       experiencing programming and having real day-to-day work challenges, that will help me much more.
+</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
