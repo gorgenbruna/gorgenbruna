@@ -1,6 +1,7 @@
 ### Hello! I'm Bruna! 👋
 
 - 🎓 I'm graduated in Multimedia Production;
+- 🎓 Systems Analysis and Development student;
 - 🌱 Currently studying Javascript and React.js;
 
 <p>
